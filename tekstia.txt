@@ -8,3 +8,4 @@ tortoise gitissä lisäys2
 lisäys 15:31
 lisäys 15:33 local
 lisäys 15:32 gitti
+muutos git
