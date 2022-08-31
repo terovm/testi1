@@ -6,3 +6,4 @@ tortoise
 tortoise gitissä lisäys
 tortoise gitissä lisäys2
 lisäys 15:31
+lisäys 15:33 local
